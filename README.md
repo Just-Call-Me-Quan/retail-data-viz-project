@@ -1,5 +1,5 @@
 # retail-data-viz-project
-Tableau dashboard analyzing 45K+ international retail transactions. Includes monthly revenue trends, top products, and sales by country. Built using Google Sheets and Tableau.
+Tableau dashboard analyzing 45K+ international online retail transactions. Includes monthly revenue trends, top products, and sales by country. Built using Google Sheets and Tableau.
 
 In this project, I analyzed over 45,000 retail transactions to build a visual dashboard that surfaces key insights for business decisions. The dataset lacked a usable date field, so I created a custom InvoiceDate by combining separate Month, Day, Year, and Time columns using formula logic in Google Sheets. This enabled true chronological trend analysis in Tableau.
 
